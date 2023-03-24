@@ -7,12 +7,11 @@ The project run with [ViteJS](https://vitejs.dev/) and build with [PreactJS](htt
 ## 2. Installation
 
 ### Clone repository
-``` 
-git clone https://github.com/SkyyInfinity/vitejs-preact-router-v6.4-new-changes.git 
-```
+Download latest release [here](https://github.com/SkyyInfinity/vitejs-preact-router-v6.4-new-changes/releases/latest)
 ### Install dependencies
+Unzip in your computer and open a terminal from this project directory<br>
 ``` 
-cd ./vitejs-preact-router-v6.4-new-changes
+cd path/to/your/project/vitejs-preact-router-v6.4-new-changes
 pnpm install
 ```
 ### Run development server
